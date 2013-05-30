@@ -1,0 +1,29 @@
+﻿@model BuyAtYourPrice.Web.Models.CategoryModel
+
+@{
+
+    var lsit = new List<SelectListItem>();
+    lsit.AddRange(
+        Model.ProductCategories.Select(x =>
+                                       new SelectListItem
+                                           {
+                                               Selected = false,
+                                               Text = x.Name,
+                                               Value = x.Id.ToString()
+                                           }));
+}
+
+<select id="catList"
+        name="catList"
+        data-bind="options: categories,
+                   optionsText: 'Name',
+                   optionsValue : 'Id'"></select>
+
+<input type="text" id="search" />
+      
+@Html.DropDownListFor(m => m.ProductCategories, lsit,
+                      new {@class = "gh-sb", @title = "Select a category for search"});
+
+  
+<a href="#" class="button">Search</a>
+<script src="~/Scripts/category.js"></script>

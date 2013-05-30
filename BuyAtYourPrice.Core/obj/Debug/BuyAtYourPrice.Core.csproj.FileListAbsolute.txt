@@ -1,0 +1,18 @@
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Core.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Core.pdb
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Data.Contracts.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\bin\Debug\EntityFramework.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Data.Contracts.pdb
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\bin\Debug\EntityFramework.xml
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\obj\Debug\BuyAtYourPrice.Core.csprojResolveAssemblyReference.cache
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\obj\Debug\BuyAtYourPrice.Core.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Core\obj\Debug\BuyAtYourPrice.Core.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Core.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Core.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Data.Contracts.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\bin\Debug\EntityFramework.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\bin\Debug\BuyAtYourPrice.Data.Contracts.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\bin\Debug\EntityFramework.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\obj\Debug\BuyAtYourPrice.Core.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\obj\Debug\BuyAtYourPrice.Core.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Core\obj\Debug\BuyAtYourPrice.Core.pdb

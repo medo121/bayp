@@ -1,0 +1,144 @@
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll.config
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\EntityFramework.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\WebGrease.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\EntityFramework.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.csprojResolveAssemblyReference.cache
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll.config
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.csprojResolveAssemblyReference.cache
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll.config
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.pdb
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll.config
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\BuyAtYourPrice.Tests.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Helpers.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Mvc.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.Razor.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Tests\obj\Debug\BuyAtYourPrice.Tests.pdb

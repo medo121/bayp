@@ -1,0 +1,16 @@
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\bin\Debug\BuyAtYourPrice.Membership.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\bin\Debug\BuyAtYourPrice.Membership.pdb
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\bin\Debug\EntityFramework.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\bin\Debug\EntityFramework.xml
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\obj\Debug\BuyAtYourPrice.Membership.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\obj\Debug\BuyAtYourPrice.Membership.pdb
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\bin\Debug\BuyAtYourPrice.Data.Contracts.dll
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\bin\Debug\BuyAtYourPrice.Data.Contracts.pdb
+\\WWLFS1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Membership\obj\Debug\BuyAtYourPrice.Membership.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Membership\obj\Debug\BuyAtYourPrice.Membership.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Membership\bin\Debug\BuyAtYourPrice.Membership.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Membership\bin\Debug\BuyAtYourPrice.Membership.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Membership\bin\Debug\EntityFramework.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Membership\bin\Debug\EntityFramework.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Membership\obj\Debug\BuyAtYourPrice.Membership.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Membership\obj\Debug\BuyAtYourPrice.Membership.pdb

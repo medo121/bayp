@@ -1,0 +1,3 @@
+# git ignore file
+/BuyAtYourPrice.Web.Tests/obj
+/BuyAtYourPrice.Web.Tests/bin

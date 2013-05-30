@@ -1,0 +1,47 @@
+﻿@using BuyAtYourPrice.Web.Models
+@model CustomerProfile
+
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="main-content" class="clearfix">
+    <div class="column-container">
+        <div class="col-620 mr-20">
+            <div class="dark-bg-content-container">
+                <div class="padded-bordered-content">
+                    <h1 class="mb-10">Hello Again, @User.Identity.Name</h1>
+                    <p style="font-size: 12px;">
+                        Welcome to your Buy at Your Price profile. From here you can update your profile, send messages to other members, check the latest activity on all your purchase stuff and update your personal settings.
+                    </p>
+                    <hr class="thick mb-20" />
+                    <div class="register-form wide-form-container">
+                        @using (Html.BeginForm("Profil", "Account", FormMethod.Post))
+                        {
+                            <div class="clear">
+                            </div>
+                            @Html.LabelFor(m => m.Email)
+                            @Html.TextBoxFor(m => m.Email, new { @class = "text-skinny" })
+                            @Html.ValidationMessageFor(m => m.Email)
+                            <div class="clear">
+                            </div>
+                            @Html.LabelFor(m => m.Address)
+                            @Html.TextBoxFor(m => m.Address, new { @class = "text-skinny" })
+                            @Html.ValidationMessageFor(m => m.Address)
+                            <div class="clear">
+                            </div>
+                            <input type="image" alt="Edit Profile" src="../../Content/images/save-profile.jpg"
+                                class="mt-5" style="float:right;">
+                            <div class="clear">
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            Banner Ad
+        </div>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\BuyAtYourPrice.DataInitializer.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\BuyAtYourPrice.DataInitializer.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\BuyAtYourPrice.Core.Data.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\BuyAtYourPrice.Domain.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\EntityFramework.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\BuyAtYourPrice.Core.Data.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\BuyAtYourPrice.Domain.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\bin\Debug\EntityFramework.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\obj\Debug\BuyAtYourPrice.DataInitializer.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\obj\Debug\BuyAtYourPrice.DataInitializer.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.DataInitializer\obj\Debug\BuyAtYourPrice.DataInitializer.pdb

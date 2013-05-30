@@ -1,0 +1,27 @@
+﻿@model BuyAtYourPrice.Web.Models.LoginModel
+@{
+    ViewBag.Title = "LogOn";
+}
+<form id="loginForm" method="post" action="/Account/Login">
+    <div class="subPanel clearfix">
+        <div class="row clearfix">
+            @Html.LabelFor(m => m.Username)
+            @Html.TextBoxFor(m => m.Username, new {@class = "input-text "})
+        </div>
+        <div class="row clearfix">
+            @Html.LabelFor(m => m.Password)
+            @Html.PasswordFor(m => m.Password, new {@class = "input-text "})
+        </div>
+        <div class="rowButton clearfix">
+            <input class="button" type="submit" value="Log On"  style="height: auto;"/>
+        </div>
+        <div style="position: relative; float: left; width: 800px;">
+            @Html.ValidationSummary()
+        </div>
+    </div>
+</form>
+
+<section class="social" id="socialLoginForm">
+    <h2>Use another service to log in.</h2>
+    @Html.Action("ExternalLoginsList","Account", new { ReturnUrl = Url.Action("Index","Home") })
+</section>

@@ -1,0 +1,18 @@
+﻿@using BuyAtYourPrice.Web.Models
+@model LoginModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel">
+    <h2>
+        Log In</h2>
+    @if (Model == null)
+    {
+        <div id="log-in-drop-down-contents">
+            @{
+                Html.RenderPartial("Login", new LoginModel());
+            }
+        </div>
+    }
+</div>

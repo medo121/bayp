@@ -1,0 +1,17 @@
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\bin\Debug\Bidit.Domain.dll
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\bin\Debug\Bidit.Domain.pdb
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\bin\Debug\SharpArch.Domain.dll
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\bin\Debug\SharpArch.Domain.pdb
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\obj\Debug\Bidit.Domain.dll
+C:\Users\chidi.onyema.ABARESEARCH\Documents\Biddit\Solutions\Bidit.Domain\obj\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\obj\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\obj\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\bin\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\bin\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\bin\Debug\SharpArch.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Biddit\Solutions\Bidit.Domain\bin\Debug\SharpArch.Domain.pdb

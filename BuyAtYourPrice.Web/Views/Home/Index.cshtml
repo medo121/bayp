@@ -1,0 +1,43 @@
+﻿   @model BuyAtYourPrice.Web.Models.CategoryModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Action("Products", "Search")
+<div id="main-content" class="clearfix">
+    <div style="width: 100%; margin-bottom: 5px;">
+        <div class="add-buy-wish-container">
+            <a data-bind="attr: { href: addBidUrl}" class="add-buy-wish add-buy-wish-btn" >Add a buy wish</a>
+        </div>
+    </div>
+    <div style="float: left; width: 200px">
+        @Html.Partial("_SearchPanel") </div>
+    
+         <div data-bind="foreach: bids" style="float: left; width: 700px">
+
+        <div class="sub-content forum-category bb-0">
+            <a  title="lucy_lia" class="avatar" ><span class="user-avatar-432165"></span>
+            </a>
+            <div style="width: 330px;" class="text">
+            <span data-bind="text: Summary"></span>
+
+            </div>
+            <div class="right">
+                <div class="big-number-label auto-width">
+                <h4 data-bind="text: BidWishPrice"></h4> 
+                    <a href="home/AddOffer" class="offer-button">Make an offer</a>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="sub-panel-dark mod-options-side">
+            Added by <a href="#">Ahmed</a>
+        </div>
+    </div>
+    <div style="float: left; width: 100px">
+        ads</div>
+</div>
+   
+<script src="~/Scripts/home.js"></script>

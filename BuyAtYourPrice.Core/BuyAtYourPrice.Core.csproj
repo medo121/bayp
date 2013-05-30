@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1E506C40-5E62-4654-8C3B-7703D32D3228}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BuyAtYourPrice.Core</RootNamespace>
+    <AssemblyName>BuyAtYourPrice.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Context.cs" />
+    <Compile Include="Domain\Address.cs" />
+    <Compile Include="Domain\Bid.cs" />
+    <Compile Include="Domain\BidItem.cs" />
+    <Compile Include="Domain\BidMatch.cs" />
+    <Compile Include="Domain\BidStatus.cs" />
+    <Compile Include="Domain\BidTransaction.cs" />
+    <Compile Include="Domain\BidTransactionType.cs" />
+    <Compile Include="Domain\Customer.cs" />
+    <Compile Include="Domain\CustomerAddress.cs" />
+    <Compile Include="Domain\DomainEntity.cs" />
+    <Compile Include="Domain\Money.cs" />
+    <Compile Include="Domain\Offer.cs" />
+    <Compile Include="Domain\OfferStatus.cs" />
+    <Compile Include="Domain\Product.cs" />
+    <Compile Include="Domain\ProductCategory.cs" />
+    <Compile Include="Domain\ProductDescription.cs" />
+    <Compile Include="Domain\ProductModel.cs" />
+    <Compile Include="IBuyAtYourPriceUnitOfWork.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositoryExtensions\BidRepositoryExtension.cs" />
+    <Compile Include="RepositoryExtensions\CustomerRepositoryExtension.cs" />
+    <Compile Include="Repository\IBidTransactionRepository.cs" />
+    <Compile Include="Repository\IBidWishRepository.cs" />
+    <Compile Include="Repository\ICustomerRepositry.cs" />
+    <Compile Include="Repository\IOfferRepository.cs" />
+    <Compile Include="Repository\IProductRepository.cs" />
+    <Compile Include="UnitOfWork.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BuyAtYourPrice.Data.Contracts\BuyAtYourPrice.Data.Contracts.csproj">
+      <Project>{A1DC3C55-372F-43FA-8D8D-3BF621F4F042}</Project>
+      <Name>BuyAtYourPrice.Data.Contracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Domain\obj\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Domain\obj\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Domain\bin\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Domain\bin\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\bin\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\bin\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\obj\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\obj\Debug\Bidit.Domain.pdb
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\bin\Debug\Bidit.Domain.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\bin\Debug\Bidit.Domain.pdb
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\obj\Debug\Bidit.Domain.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Domain\obj\Debug\Bidit.Domain.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Domain\bin\Debug\BuyAtYourPrice.Domain.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Domain\bin\Debug\BuyAtYourPrice.Domain.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Domain\obj\Debug\BuyAtYourPrice.Domain.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Domain\obj\Debug\BuyAtYourPrice.Domain.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Domain\obj\Debug\BuyAtYourPrice.Domain.pdb

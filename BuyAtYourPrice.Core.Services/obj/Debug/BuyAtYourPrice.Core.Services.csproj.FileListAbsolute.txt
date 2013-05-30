@@ -1,0 +1,5 @@
+C:\BuyAtYourPrice\BuyAtYourPrice.Core.Services\bin\Debug\BuyAtYourPrice.Core.Services.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Core.Services\bin\Debug\BuyAtYourPrice.Core.Services.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Core.Services\obj\Debug\BuyAtYourPrice.Core.Services.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Core.Services\obj\Debug\BuyAtYourPrice.Core.Services.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Core.Services\obj\Debug\BuyAtYourPrice.Core.Services.pdb

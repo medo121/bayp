@@ -1,0 +1,48 @@
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.csprojResolveAssemblyReference.cache
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll.config
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\EntityFramework.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\EntityFramework.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\BuyAtYourPrice\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll.config
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\Bidit.Domain.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\EntityFramework.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\Bidit.Domain.pdb
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\EntityFramework.xml
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.csprojResolveAssemblyReference.cache
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.dll
+C:\Users\BURIM\Documents\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.pdb
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll.config
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.pdb
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\EntityFramework.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.pdb
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\EntityFramework.xml
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.csprojResolveAssemblyReference.cache
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.pdb
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Core.dll
+\\wwlfs1042.worldwide.bbc.co.uk\MyDocuments\OnyemCW1$$\Visual Studio 2010\Projects\wishbuy\Revised\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Core.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll.config
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Core.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\EntityFramework.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Core.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\BuyAtYourPrice.Data.Contracts.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\bin\Debug\EntityFramework.xml
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Data\obj\Debug\BuyAtYourPrice.Data.pdb

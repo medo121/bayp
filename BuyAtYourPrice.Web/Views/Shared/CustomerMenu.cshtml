@@ -1,0 +1,37 @@
+﻿<div id="account-drop-down">
+    <div id="profile-btn">
+        <span class="left-cap"></span>
+        <a href="#">
+            <img alt="medo121" class="small-avatar" src="~/Content/images/CustomerMenu/noAvatarPat.png">
+            <span class="user-name">@User.Identity.Name</span>
+            <span class="arrow-up"></span>
+        </a>
+        <span class="right-cap"></span>
+    </div>
+    <ul id="account-drop-down-contents">
+        <li><span class="right-cap"></span>
+            <span class="left-cap"></span>
+            <a class="profile" href="@Url.Action("Profile", "Account", new { username = @User.Identity.Name })">
+                <span class="left-pad"></span>
+                Profile
+                <span class="right-pad"></span>
+            </a></li>
+        <li><span class="right-cap"></span><span class="left-cap"></span><a class="account" href="/account">
+            <span class="left-pad"></span>Account<span class="right-pad">
+            </span></a></li>
+        <li>
+            <span class="right-cap"></span>
+            <span class="left-cap"></span>
+            <a class="log-out" href="@Url.Action("LogOut", "Account")">
+                <span class="left-pad"></span>
+                Log Out
+                <span class="right-pad"></span>
+            </a>
+        </li>
+        <li class="bottom-shadow">
+            <span class="right-cap"></span>
+            <span class="left-cap"></span>
+            <span class="filler"></span>
+        </li>
+    </ul>
+</div>

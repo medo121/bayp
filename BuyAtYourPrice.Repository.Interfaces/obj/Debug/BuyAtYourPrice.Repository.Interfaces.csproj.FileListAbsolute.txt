@@ -1,0 +1,7 @@
+C:\BuyAtYourPrice\BuyAtYourPrice.Repository.Interfaces\bin\Debug\BuyAtYourPrice.Repository.Interfaces.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Repository.Interfaces\bin\Debug\BuyAtYourPrice.Repository.Interfaces.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Repository.Interfaces\bin\Debug\BuyAtYourPrice.Domain.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Repository.Interfaces\bin\Debug\BuyAtYourPrice.Domain.pdb
+C:\BuyAtYourPrice\BuyAtYourPrice.Repository.Interfaces\obj\Debug\BuyAtYourPrice.Repository.Interfaces.csprojResolveAssemblyReference.cache
+C:\BuyAtYourPrice\BuyAtYourPrice.Repository.Interfaces\obj\Debug\BuyAtYourPrice.Repository.Interfaces.dll
+C:\BuyAtYourPrice\BuyAtYourPrice.Repository.Interfaces\obj\Debug\BuyAtYourPrice.Repository.Interfaces.pdb

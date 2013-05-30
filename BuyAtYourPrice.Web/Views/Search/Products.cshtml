@@ -1,0 +1,13 @@
+﻿@model BuyAtYourPrice.Web.Models.ProductCategoryModel
+@{
+    ViewBag.Title = "Products";
+    Layout = null;
+}
+<div id="inner-content">
+    <div class="nav">
+        @Html.TextBoxFor(m => m.search)
+        @Html.DropDownListFor(m => m.CategoryId, new SelectList(Model.CategoryItems, "Value", "Text", Model.CategoryId)
+                              , new {title = "Select a category for search", @class = "gh-sb", size = "1"})
+        <a href="#" class="button">Search</a>
+    </div>
+</div>
